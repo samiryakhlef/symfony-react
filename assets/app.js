@@ -10,3 +10,10 @@ import './styles/app.css';
 
 // start the Stimulus application
 import './bootstrap';
+
+import '@mui/material';
+import '@mui/icons-material';
+
+import './controllers/Component/navbar/navbar.css';
+import './controllers/Component/footer/footer.css';
+
